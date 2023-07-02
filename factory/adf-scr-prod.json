@@ -1,0 +1,9 @@
+{
+	"name": "adf-scr-prod",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f962ce72-3af9-4910-898e-67cedc1b0efe",
+		"tenantId": "b2317248-fb60-4491-83c0-22ecb6d9d2ea"
+	}
+}
